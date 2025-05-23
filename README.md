@@ -82,9 +82,9 @@ Digital Portfolio showcasing my work readiness training artefacts and reflection
 ## 📄 Create a CV
 
 ### 📌 Evidence
-- [Insert link to your CV PDF uploaded in GitHub or Google Drive]
-- Summary: "This CV includes updated skills, work readiness achievements, and contact details."
+- ![cv](https://github.com/user-attachments/assets/71e85961-fe3d-410f-8438-1e45bbfcfbea)
 
+- This CV includes updated skills
 ### 🪞 Reflection (STAR Technique)
 **Situation:** I needed to create a professional CV to apply for internships and graduate programs in the ICT 
                industry.  
