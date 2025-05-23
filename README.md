@@ -133,5 +133,4 @@ Career counselling, personality assessments, and skill evaluations have helped m
 ---
 
 📌 **GitHub Repository Link:**  
-[Insert your actual GitHub repo URL here when submitting]
-
+https://github.com/Mkhisto/e-portfolio-work-readiness.git
